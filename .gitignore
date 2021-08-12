@@ -3,3 +3,14 @@
 ################################################################################
 
 /Debug
+*.lib
+*.pdb
+/Debug/libmupdf64.lib
+/Debug/libmupdf64.pdb
+/Debug/libthirdparty64.lib
+/Debug/libthirdparty64.pdb
+/.vs
+/Release
+/src/.vs/PDFRead/v16
+/src/Debug
+/src/libtiff/libtiff/out/build/x64-Debug

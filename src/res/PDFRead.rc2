@@ -1,0 +1,25 @@
+//
+// PDFRead.RC2 - resources Microsoft Visual C++ does not edit directly
+//
+
+#ifdef APSTUDIO_INVOKED
+	#error this file is not editable by Microsoft Visual C++
+#endif //APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Add manually edited resources here...
+#ifndef incl 
+#define incl
+
+#define FILENAME "PDFREAD\0"
+#define FILEDESCR "newsWORKS PDF Importer Module"
+#define OFILENAME "PDFREAD.EXE\0"
+#include "..\..\vres.rc"
+
+//#include "..\ccsdatagermany.rc"
+//#include "..\ccsdataesn.rc"
+//#include "..\ccsdataitaly.rc"
+//#include "..\ccsdatafrance.rc"
+#endif
+/////////////////////////////////////////////////////////////////////////////
